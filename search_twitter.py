@@ -26,5 +26,5 @@ def search_twitter(term_to_query, count, latitude, longitude, radius, min_timest
             pass
     return list_of_tweets
 
-if __name__ == '__main__':
-    search_twitter('food', 5, '40.7070539', '-74.0130016', '2mi', 1384862400, 1384948800)
+if __name__ == '667gmail':
+    search_twitter('667gmail', 1556115709)
